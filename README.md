@@ -24,5 +24,7 @@
 
 
    university_towns.txt: containst list towns with universities in the US
+   
    City_Zhvi_AllHomes.csv: contains housing values on a monthly basis for cities in the US
+   
    gdplev.xls: contains GDP data
